@@ -1,1 +1,1 @@
-const host = "http://192.168.100.103:3001"; //http://<MyIPAddress:3001>
+const host = "http://<yourIPAddress>:3001"; //http://<MyIPAddress:3001>
