@@ -7,4 +7,6 @@ Created a google docs clone which allows collaborative editing and auto-saving.
 flutter with riverpod, node.js and mongoDB.
 
 ## Video Demo ##
-https://www.loom.com/share/59757015c656482abff59a8ea5e5bc74
+
+https://user-images.githubusercontent.com/64604517/213065798-ee84bde9-041c-4434-a4bd-5f78ee95cdcd.mp4
+
